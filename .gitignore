@@ -1,0 +1,20 @@
+# Mac trashes
+.DS_Store
+.localized
+
+# Python
+test.py
+test.ipynb
+.ipynb_checkpoints/
+
+# Dataset
+data/
+*.xlsx
+*.csv
+
+# Txt files
+txt/
+*.txt
+
+# Images
+img/
