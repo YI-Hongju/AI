@@ -3,9 +3,10 @@
 .localized
 
 # Python
+.ipynb_checkpoints/
+test/
 test.py
 test.ipynb
-.ipynb_checkpoints/
 
 # Dataset
 data/

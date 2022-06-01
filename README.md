@@ -1,4 +1,4 @@
 # My Codes for Studies about AI Technology
-* Regression Analysis
 * Machine Learning
+* Foundations
 ## <to_hongju@proton.me>
